@@ -2,6 +2,10 @@
 
 ## Análise Exploratória e Modelo Preditivo para Reservas de Hotel
 
+🔗 **Repositório GitHub:** [https://github.com/dmm76/ia_kaggle_sctec_desafio.git](https://github.com/dmm76/ia_kaggle_sctec_desafio.git)
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Análise%20de%20Dados-green)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange)
