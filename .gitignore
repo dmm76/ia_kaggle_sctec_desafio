@@ -1,0 +1,23 @@
+# Ambiente virtual Python
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / VS Code
+.ipynb_checkpoints/
+.vscode/
+
+# Arquivos compactados
+*.zip
+*.rar
+
+# Arquivos temporários
+saida_execucao.txt
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

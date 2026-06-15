@@ -1,0 +1,18 @@
+RELATÓRIO DO MODELO PREDITIVO
+============================================================
+
+Acurácia do modelo: 0.7752
+
+Matriz de confusão:
+[[9363 3281]
+ [ 641 4161]]
+
+Relatório de classificação:
+               precision    recall  f1-score   support
+
+Não cancelada       0.94      0.74      0.83     12644
+    Cancelada       0.56      0.87      0.68      4802
+
+     accuracy                           0.78     17446
+    macro avg       0.75      0.80      0.75     17446
+ weighted avg       0.83      0.78      0.79     17446
